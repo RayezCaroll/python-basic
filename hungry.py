@@ -1,0 +1,3 @@
+hungry=True
+
+print(hungry)
