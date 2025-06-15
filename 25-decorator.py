@@ -5,7 +5,7 @@ def greet(fun):
         print('hello')
         fun(name)
         # After
-        print('Good Bye')
+        print('Have a nice day')
     return wrapper
 
 @greet
