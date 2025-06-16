@@ -19,5 +19,5 @@ with open('./text.txt') as file: # Do not need to close the file again.
     for line in file:
         print(line)
 
-print("Other Work")
+print("Other Work") # Other Works will work properly.
 
